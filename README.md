@@ -15,20 +15,20 @@ There are two reasons I consider this approach ethical, even with a prize. For s
 The challenge was introduced in the following email:
 
 > Dear faculty staff and students,
-
+>
 > I'm sure I'm not just speaking for myself when I say I'm really enjoying the arrival of spring. The warmth of the sun. The fresh scent of green grass and new leaves. Everything in bloom. We have a nice long Easter weekend ahead of us. A weekend where we can take a step back, rest and enjoy spring.
-
+>
 > [...]
-
+>
 > **TPM easter egg challenge**  
 > But now the Easter weekend is here. Time to relax! We devised the TPM easter egg challenge especially for this purpose. We have hidden 17 Easter eggs on our website (https://www.tudelft.nl/tbm/). There is a letter on every Easter egg. Together, the letters form an English-language phrase that fits these dots:
-
+>
 > `======     ===    ========`
-
+>
 > Among the good entries, we raffle [a prize]. You can send in your solution until April 14, 2020 to [redacted], stating "TPM easter egg challenge".
-
+>
 > I wish you all a wonderfully relaxed Easter weekend.
-
+>
 > With kind regards,
-
+>
 > [Faculty Staff]
