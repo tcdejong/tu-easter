@@ -6,29 +6,29 @@ The scraper tracks two Sets of URLs: one for _visited_ pages, and one for _remai
 
 After all letters are collected, each unique character is counted. A word list is loaded and filtered down to only include words of the right lengths with letters from our egg hunt. A hideous three-layer for-loop iteratively combines words from the word list and counts if they are a valid combination with respect to the available letters. The output is a list of all valid three-word permutations from the word list. This list can easily be skimmed through manually to find the only sensible entry. 
 
+There are two reasons I consider this approach ethical, even with a prize. For starters, the eggs were easy to find manually: this approach didn't give a substantial advantage. Secondly, this is a technical university: it would be a shame if we're  expected not to apply the knowledge we obtain :)
+
 ---
 
 # Challenge Description
 
-Dear faculty staff and students,
+The challenge was introduced in the following email:
 
-I'm sure I'm not just speaking for myself when I say I'm really enjoying the arrival of spring. The warmth of the sun. The fresh scent of green grass and new leaves. Everything in bloom. We have a nice long Easter weekend ahead of us. A weekend where we can take a step back, rest and enjoy spring.
+> Dear faculty staff and students,
 
-Flexibility test
-We have had some bizarre weeks. It was a massive and jointly effort by all of us. I think we have all been thoroughly tested in our flexibility and adaptability. Whether it is taking online lessons or taking online lessons, Are the exams still on, and graduation, my research projects? When will I see my colleagues again? How should I combine my work and family? Or maybe a combination of several. In that respect it is an intensive time.
+> I'm sure I'm not just speaking for myself when I say I'm really enjoying the arrival of spring. The warmth of the sun. The fresh scent of green grass and new leaves. Everything in bloom. We have a nice long Easter weekend ahead of us. A weekend where we can take a step back, rest and enjoy spring.
 
-At the same time, I hear more and more people say that they are slowly getting used to working while meeting all the “Corona measures” and that the "normal" work is now starting to pile up again.
+> [...]
 
-TPM easter egg challenge
-But now the Easter weekend is here. Time to relax! We devised the TPM easter egg challenge especially for this purpose. We have hidden 17 Easter eggs on our website (https://www.tudelft.nl/tbm/). There is a letter on every Easter egg. Together, the letters form an English-language phrase that fits these dots:
+> **TPM easter egg challenge**  
+> But now the Easter weekend is here. Time to relax! We devised the TPM easter egg challenge especially for this purpose. We have hidden 17 Easter eggs on our website (https://www.tudelft.nl/tbm/). There is a letter on every Easter egg. Together, the letters form an English-language phrase that fits these dots:
 
-======     ===    ========
+> `======     ===    ========`
 
-Among the good entries, we raffle a book slip of € 75,-. You can send in your solution until April 14, 2020 to [redacted], stating "TPM easter egg challenge".
+> Among the good entries, we raffle [a prize]. You can send in your solution until April 14, 2020 to [redacted], stating "TPM easter egg challenge".
 
+> I wish you all a wonderfully relaxed Easter weekend.
 
-I wish you all a wonderfully relaxed Easter weekend.
+> With kind regards,
 
-With kind regards,
-
-[Faculty Staff]
+> [Faculty Staff]
