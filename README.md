@@ -6,7 +6,7 @@ The scraper tracks two Sets of URLs: one for _visited_ pages, and one for _remai
 
 After all letters are collected, their frequencies are stored in a dict. A word list is loaded and filtered down to only include words of the right lengths with letters from our egg hunt. A hideous three-layer for-loop iteratively combines words from the word list and counts if they are a valid answer with respect to the available letters. The output is a list of all valid three-word permutations from the word list. This list can easily be skimmed through manually to find the only sensible entry. 
 
-There are two reasons I consider this approach ethical, even with a prize. For starters, the eggs were easy enough to find manually: this approach didn't give a substantial advantage. Secondly, this is a technical university: it would be a shame if we're  expected not to apply the knowledge we obtain :)
+There are two reasons I consider this approach ethical, even with a prize on the line. For starters, the eggs were easy enough to find manually: this approach didn't give a substantial advantage. Secondly, this is a technical university: it would be a shame if we're  expected not to apply the knowledge we obtain :)
 
 ---
 
