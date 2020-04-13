@@ -161,7 +161,7 @@ def bruteForceUnscramble(letters: List[str], lengths: Tuple[int, int, int], affi
     # make set for quick member testing
     letter_set = set(letters)
 
-    # prepare dict with keys word lengths
+    # prepare dict with word lengths as keys and word lists as value
     word_list = requests.get(word_list_url).text.splitlines()
     words: Dict[int, List[str]] = {n: [] for n in word_lengths}
         
