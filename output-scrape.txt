@@ -1,0 +1,781 @@
+Processing https://www.tudelft.nl/tbm/
+Remaining stack: 45, eggs: 0 - []
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/revolutie-in-modelleren-van-reisgedrag/
+Remaining stack: 46, eggs: 0 - []
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/veerkrachtig-watermanagement-in-india-door-adaptieve-beleidsanalyse/
+Remaining stack: 48, eggs: 0 - []
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/de-waterstofauto-als-cruciale-schakel-in-een-duurzaam-energiesysteem/
+Remaining stack: 48, eggs: 0 - []
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/
+Remaining stack: 52, eggs: 1 - ['H']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/vooral-veel-voordelen-van-100-kilometer-op-de-snelweg/
+Remaining stack: 52, eggs: 1 - ['H']
+Processing https://www.tudelft.nl/tbm/onderwijs/online-education/
+Remaining stack: 55, eggs: 1 - ['H']
+Processing https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/
+Remaining stack: 55, eggs: 2 - ['H', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/
+Remaining stack: 78, eggs: 2 - ['H', 'R']
+Processing https://www.tudelft.nl/tbm/samenwerken/contractonderzoek/
+Remaining stack: 77, eggs: 2 - ['H', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/vacancies/
+Remaining stack: 76, eggs: 2 - ['H', 'R']
+Processing https://www.tudelft.nl/tbm/onderwijs/masteropleidingen/
+Remaining stack: 76, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/gamelab/
+Remaining stack: 77, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/governance-of-cyber-security/
+Remaining stack: 82, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/onderwijs/online-education/massive-open-online-course/
+Remaining stack: 81, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/facts-figures-and-facilities/
+Remaining stack: 80, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/hoe-games-problemen-oplossen-in-de-transportsector/
+Remaining stack: 80, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/
+Remaining stack: 79, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/onderwijs/masteropleidingen/student-stories-til/
+Remaining stack: 79, eggs: 3 - ['H', 'R', 'N']
+Processing https://www.tudelft.nl/tbm/onderwijs/bacheloropleiding/
+Remaining stack: 78, eggs: 4 - ['H', 'R', 'N', 'I']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/our-projects/
+Remaining stack: 99, eggs: 4 - ['H', 'R', 'N', 'I']
+Processing https://www.tudelft.nl/tbm/onderzoek/
+Remaining stack: 99, eggs: 5 - ['H', 'R', 'N', 'I', '!']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/csi-the-hague/
+Remaining stack: 102, eggs: 5 - ['H', 'R', 'N', 'I', '!']
+Processing https://www.tudelft.nl/tbm/samenwerken/
+Remaining stack: 101, eggs: 6 - ['H', 'R', 'N', 'I', '!', 'A']
+Processing https://www.tudelft.nl/tbm/onderwijs/online-education/open-course-ware/
+Remaining stack: 100, eggs: 6 - ['H', 'R', 'N', 'I', '!', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/downloads/
+Remaining stack: 99, eggs: 6 - ['H', 'R', 'N', 'I', '!', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/
+Remaining stack: 99, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/hoe-waarborg-je-publieke-waarden-in-crowd-based-innovations/
+Remaining stack: 99, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/guests/
+Remaining stack: 99, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/stafafdelingen/delft-centre-for-entrepreneurship/
+Remaining stack: 98, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/medewerkerportaal/
+Remaining stack: 97, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/open-dataopen-government/
+Remaining stack: 97, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/contact-en-bereikbaarheid/
+Remaining stack: 98, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/
+Remaining stack: 129, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/onderzoek/onderzoeksportfolio/
+Remaining stack: 129, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/our-research/
+Remaining stack: 128, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/lecturers/
+Remaining stack: 131, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/secretariat/
+Remaining stack: 139, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/news-in-the-media/
+Remaining stack: 138, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/tweedeling-in-klimaatadaptatie-voorkomen/
+Remaining stack: 137, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/education/master-of-science/
+Remaining stack: 137, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/good-reasons-to-work-at-tpm/
+Remaining stack: 136, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/
+Remaining stack: 149, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/
+Remaining stack: 148, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/contact/
+Remaining stack: 147, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/capturing-the-societal-value-of-smart-energy-systems/
+Remaining stack: 151, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/sl-shannon-spruit/
+Remaining stack: 150, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/vacancies/
+Remaining stack: 149, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/actueel/persinformatie/
+Remaining stack: 148, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/vacancies/
+Remaining stack: 147, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/spreading-the-responsible-innovation-approach/
+Remaining stack: 158, eggs: 7 - ['H', 'R', 'N', 'I', '!', 'A', 'E']
+Processing https://www.tudelft.nl/tbm/onderwijs/
+Remaining stack: 157, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/ni-natalia-kadenko/
+Remaining stack: 156, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/k-kees-krul/
+Remaining stack: 155, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/postinitiele-opleidingen/
+Remaining stack: 156, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/dr-sl-sharlene-gomes/
+Remaining stack: 155, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors/profdr-mjg-michel-van-eeten/
+Remaining stack: 155, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/secretariat/m-monique-van-der-toorn-fennema/
+Remaining stack: 155, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/lecturers/ir-mw-marcel-ludema/
+Remaining stack: 155, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/secretariat/e-esther-holten-miedema/
+Remaining stack: 154, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/gamelab/ir-sa-simon-tiemersma/
+Remaining stack: 153, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/results-impact-and-quality/
+Remaining stack: 154, eggs: 8 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/
+Remaining stack: 153, eggs: 9 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/contact/
+Remaining stack: 152, eggs: 9 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/organogram-feiten-cijfers/
+Remaining stack: 153, eggs: 10 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/hoe-zorg-je-dat-veranderende-normen-en-waarden-ingebed-zijn-in-technische-ontwikkelingen/
+Remaining stack: 152, eggs: 10 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S']
+Processing https://www.tudelft.nl/tbm/actueel/
+Remaining stack: 151, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-cp-cees-van-beers/
+Remaining stack: 179, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/analyse-van-brandweeroproepen-op-oudejaarsavond-op-basis-van-open-sourcedata/
+Remaining stack: 180, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/response/
+Remaining stack: 184, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/research/interesting-new-publications/
+Remaining stack: 183, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/dr-jk-justyna-tasic/
+Remaining stack: 182, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/csi-the-hague/meer-weten/
+Remaining stack: 181, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/actueel/tbm-op-social-media/
+Remaining stack: 181, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/response/contact/
+Remaining stack: 180, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/csi-the-hague/grenzeloze-mogelijkheden/
+Remaining stack: 179, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/results-impact-and-quality/research-projects/
+Remaining stack: 178, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/engage/
+Remaining stack: 178, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/advanced-cyber-defense-center-acdc/
+Remaining stack: 179, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderwijs/brochures/
+Remaining stack: 178, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/drir-t-trivik-verma/
+Remaining stack: 177, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderwijs/online-education/flexible-learning-paths-in-responsible-innovation/
+Remaining stack: 178, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/h-hadi-asghari/
+Remaining stack: 177, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/networks/
+Remaining stack: 176, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/
+Remaining stack: 181, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/drir-js-jos-timmermans/
+Remaining stack: 180, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/affiliated-full-professors/
+Remaining stack: 181, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/education/
+Remaining stack: 180, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors-emeriti/
+Remaining stack: 181, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/profdr-y-yao-hua-tan/
+Remaining stack: 182, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/csi-the-hague/stephan-lukosch/
+Remaining stack: 181, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/ejtir/
+Remaining stack: 180, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/giovane-moura/
+Remaining stack: 179, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/sections/economics-of-technology-and-innovation/
+Remaining stack: 183, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-s-sabine-roeser/profdr-s-sabine-roeser/
+Remaining stack: 190, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/
+Remaining stack: 191, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/profdr-gp-bert-van-wee/
+Remaining stack: 193, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/news-in-the-media/
+Remaining stack: 193, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/
+Remaining stack: 252, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/
+Remaining stack: 264, eggs: 11 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/
+Remaining stack: 270, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/profdr-gp-bert-van-wee/publications-bert-van-wee/
+Remaining stack: 269, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/samenwerken/centres-institutes/
+Remaining stack: 268, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/
+Remaining stack: 279, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/dr-b-bas-kolen/
+Remaining stack: 279, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/onderzoek/graduate-school/tpm-graduate-school/
+Remaining stack: 284, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/een-prettige-en-effectieve-werksfeer-door-simulatiespellen/
+Remaining stack: 285, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/international-entrepreneurship-development/
+Remaining stack: 284, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/thematic-cooperation/
+Remaining stack: 283, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/join-tpm/
+Remaining stack: 283, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/education/
+Remaining stack: 282, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/
+Remaining stack: 291, eggs: 12 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/decaan/
+Remaining stack: 290, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/support-staff/hcm-ellen-van-der-linden/
+Remaining stack: 289, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/b-bing-huang/
+Remaining stack: 288, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/ondernemerschap-medtech-based-entrepreneurship/
+Remaining stack: 287, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/response/publications/
+Remaining stack: 286, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/support-staff/ba-betty-van-koppen/
+Remaining stack: 285, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/education/master-of-science/master-customs-and-supply-chain-compliance/
+Remaining stack: 284, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/rj-roman-hennig/
+Remaining stack: 283, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/drir-ra-rudi-hakvoort/
+Remaining stack: 283, eggs: 13 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G']
+Processing https://www.tudelft.nl/tbm/actueel/in-de-media/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/capturing-the-societal-value-of-smart-energy-systems/researchers/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/lecturers/drir-i-ivo-bouwmans/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/
+Remaining stack: 296, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/arman-noroozian/
+Remaining stack: 295, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/csi-the-hague/partners-in-crime/
+Remaining stack: 294, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/sections/economics-of-technology-and-innovation/contact/
+Remaining stack: 293, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/secretariat/nc-nathalie-van-den-heuvel/
+Remaining stack: 292, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/education/
+Remaining stack: 291, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/m-maria-freese/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/collaboration/
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/professors-emeriti/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/education/online-education/
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/hoe-games-met-klassieke-muziek-mogelijk-bijdragen-aan-een-tolerante-samenleving/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/a-alexia-athanasopoulou/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/dr-av-anatol-itten/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/news-in-the-media/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-rm-ruth-shortall/
+Remaining stack: 285, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-sma-seyyed-mohammad-ali-latifi-mba/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/dr-ir-hsi-heleen-vreugdenhil/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/sociaal-contact-bevorderen-met-behulp-van-onlinegames/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/security-safety-justice-ld/
+Remaining stack: 282, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/drir-i-igor-nikolic/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-j-jafar-rezaei/drir-rm-rob-stikkelman/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/k-kailan-wu/
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/lecturers/drir-l-lydia-stougie/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/inclusive-business-models-for-frugal-innovations-in-africa/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-ag-albert-plugge/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/projects/em-lab/
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/em-lab/
+Remaining stack: 278, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-s-sabine-roeser/profdr-s-sabine-roeser/interviews/
+Remaining stack: 277, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/online-education/professional-education/
+Remaining stack: 276, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-amg-anneke-zuiderwijk-van-eijk/
+Remaining stack: 278, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/ondernemerschap-technology-based-entrepreneurship/
+Remaining stack: 277, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/online-education/flexible-learning-paths-in-responsible-innovation/contact/
+Remaining stack: 276, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/projects/
+Remaining stack: 276, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/k-ksenia-poplavskaya-msc/
+Remaining stack: 275, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/management-team/
+Remaining stack: 278, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-eje-eric-molin/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors/
+Remaining stack: 285, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/drs-ae-annebeth-erdbrink/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/dr-t-thomas-hoppe/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/alumni/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-rw-rolf-kuenneke/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-j-jeroen-delfos/
+Remaining stack: 282, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/dr-hk-heide-lukosch/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/graduate-school/tpm-graduate-school/finding-a-position/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdrir-ir-ibo-van-de-poel/
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors/prof-dr-ba-bartel-van-de-walle/
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/profdr-waga-harry-bouwman/
+Remaining stack: 278, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/graduate-school/tpm-graduate-school/phd-admission/
+Remaining stack: 277, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/jt-james-tonny-manalal/
+Remaining stack: 276, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/professors-emeriti/profdrir-pa-peter-kroes/
+Remaining stack: 275, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-se-samantha-tanzer/
+Remaining stack: 274, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/response/about-the-research/
+Remaining stack: 273, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-s-sabine-roeser/profdr-s-sabine-roeser/emotions-and-technological-risks/
+Remaining stack: 272, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/professors-emeriti-and-previous-staff-members/
+Remaining stack: 272, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/
+Remaining stack: 272, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/vacancies/join-mas/
+Remaining stack: 271, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/sections/economics-of-technology-and-innovation/people/
+Remaining stack: 295, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/hoogleraren/profiel-van-een-prof/sabine-roeser/
+Remaining stack: 295, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/b-ben-zhu/
+Remaining stack: 294, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/adaptive-delta-management/
+Remaining stack: 294, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/drir-ehwj-eefje-cuppen/
+Remaining stack: 293, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/m-majid-mohammadi-msc/
+Remaining stack: 292, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-tc-tina-comes/
+Remaining stack: 291, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/education/student-projects/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/a-annika-herth/
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/dr-phmp-peter-roelofsma/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-n-nicolas-cointe/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/veilige-datamarktplaatsen-voor-innovatie/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/s-shahrzad-nikghadam/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/de-verantwoordelijkheidskloof-bij-zelfrijdende-autos/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/stafafdelingen/delft-centre-for-entrepreneurship/staff/dring-ve-victor-scholten/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/profdrir-z-zofia-lukszo/
+Remaining stack: 285, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/online-education/flexible-learning-paths-in-responsible-innovation/about-responsible-innovation/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-s-sabine-roeser/profdr-s-sabine-roeser/moral-emotions-and-risk-politics/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/secretariat/wbm-wendela-nooteboom/
+Remaining stack: 282, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-r-rick-wolbertus/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-cj-carissa-champlin/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/mrdrsing-sm-sander-van-barneveld/
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/contact/
+Remaining stack: 278, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/associate-professors/dr-af-aad-correlje/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-j-jisiwei-luo/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/lecturers/dr-ja-jan-anne-annema/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/drir-d-dorien-korbee/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/associate-professors/dr-jlt-jos-blank/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/b-baiba-pudane/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/visiting-researchers/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/
+Remaining stack: 294, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/
+Remaining stack: 293, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-amg-anneke-zuiderwijk-van-eijk/publications/
+Remaining stack: 292, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ahmad-alwosheel/
+Remaining stack: 291, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/dr-lj-rens-kortmann/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/frugal-innovation-for-sustainable-global-development-lde/
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/organisation/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-amg-anneke-zuiderwijk-van-eijk/profile/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/w-wenhua-qu/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-mv-virginia-dignum/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/capturing-the-societal-value-of-smart-energy-systems/partners/
+Remaining stack: 285, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/drir-ti-timber-haaker/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/advanced-cyber-defense-center-acdc/meer-weten/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/secretariat/j-joy-van-eijk/
+Remaining stack: 282, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors/prof-dr-wm-martin-de-jong/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/pwe/
+Remaining stack: 295, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/h-hanxin-zhao/
+Remaining stack: 294, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/sections/safety-and-security-science/
+Remaining stack: 300, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/vacancies/assistant-professor-ethics-philosophy-of-technology-tenure-track-with-education-focus-at-tu-delft/
+Remaining stack: 299, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/dr-phjj-paul-swuste/
+Remaining stack: 299, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/postdocs/ir-te-tristan-de-wildt/
+Remaining stack: 298, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/management-team/tj-thomas-baar-ma/
+Remaining stack: 297, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/a-andreia-martins-martinho/
+Remaining stack: 296, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/capturing-the-societal-value-of-smart-energy-systems/publications/
+Remaining stack: 295, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/r-ricardo-matheus/
+Remaining stack: 294, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/drir-kf-karel-mulder/
+Remaining stack: 293, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/drir-b-bert-enserink/
+Remaining stack: 292, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/pwe/pwe-basics/pwe-als-participatie-instrument/
+Remaining stack: 291, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-y-yi-yin/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/associate-professors/dr-g-geerten-van-de-kaa/
+Remaining stack: 292, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/sander-de-jong/
+Remaining stack: 291, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/c-christine-milchram-msc/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-hh-helle-hvid-hansen/
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/organogram-feiten-cijfers/feiten-en-cijfers/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/alumni/arachnion/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/research/#c460853
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-m-mannat-kaur/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/s-shiva-noori/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/k-nurhayati-kartika-msc/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/pwe/pwe-voor-gevorderden/
+Remaining stack: 285, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/drsing-d-dick-hoeneveld/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-j-jafar-rezaei/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/dr-r-runyan-lin/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-ir-ga-georgios-archimidis-tsalidis/
+Remaining stack: 282, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ra-rijk-mercuur/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/secretariat/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/postinitiele-opleidingen/management-of-safety-health-environment/
+Remaining stack: 293, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-eje-eric-molin/publications/
+Remaining stack: 292, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/vacancies/external-contract-phd-student-or-visiting-scholar-at-vti/
+Remaining stack: 292, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/lm-liza-syamsuri/
+Remaining stack: 291, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/associate-professors/dr-af-aad-correlje/books/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/associate-professors/dr-k-kas-hemmes/
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/sections/safety-and-security-science/education/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-eje-eric-molin/lecturing-activities/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/postinitiele-opleidingen/management-of-safety-health-environment/opleidingsteam/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/s-shilei-hu/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/s-steven-sihyun-yoo/
+Remaining stack: 285, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/jill-slinger/
+Remaining stack: 284, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/farzam-fanitabasi/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/vacancies/external-contract-phd-student-or-visiting-scholar-at-vti/application-form/
+Remaining stack: 283, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-bw-brendon-de-raad/
+Remaining stack: 282, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/arthur-feinberg/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/sections/economics-of-technology-and-innovation/education/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-my-yousef-maknoon/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/research/#c114466
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/drir-jn-jaco-quist/
+Remaining stack: 281, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/y-yamin-huang/
+Remaining stack: 280, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/postinitiele-opleidingen/management-of-safety-health-environment/veelgestelde-vragen/
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/a-arie-purwanto/
+Remaining stack: 278, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/graduate-school/tpm-graduate-school/support-during-your-phd/
+Remaining stack: 279, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/humtech-lab/humtech-lab/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/mhc-ads/
+Remaining stack: 290, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-i-iryna-susha/
+Remaining stack: 289, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/secretariat/atm-agnes-dokkuma-ten-dam/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/projects/
+Remaining stack: 288, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/
+Remaining stack: 287, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/assistant-professors/dr-l-laurens-rook/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/education/graduation/
+Remaining stack: 286, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/stafafdelingen/itav/
+Remaining stack: 310, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-s-sabine-roeser/profdr-s-sabine-roeser/books/
+Remaining stack: 309, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/mj-martijn-van-der-linden-msc/
+Remaining stack: 308, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/sections/
+Remaining stack: 307, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/communicatie-als-brug-tussen-terrorismedreiging-en-risicoperceptie/
+Remaining stack: 307, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/ir-r-richard-van-gemert-mba/
+Remaining stack: 306, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/pwe/pwe-voor-gevorderden/publicaties/
+Remaining stack: 309, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/postinitiele-opleidingen/management-of-safety-health-environment/programma/
+Remaining stack: 309, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/postdocs/
+Remaining stack: 317, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/fausto-guaragni/
+Remaining stack: 316, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/denhaag/
+Remaining stack: 315, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/graduate-school/tpm-graduate-school/contact/
+Remaining stack: 314, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/pwe/pwe-basics/pwe-als-evaluatie-instrument/
+Remaining stack: 313, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/cybersecurity/
+Remaining stack: 312, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/samenwerken/samenwerkingsverbanden/
+Remaining stack: 311, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/associate-professors/drir-b-behnam-taebi/
+Remaining stack: 310, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/drir-ga-mark-de-reuver/
+Remaining stack: 309, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/organogram-feiten-cijfers/missie/
+Remaining stack: 308, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors-emeriti/profdr-we-warren-walker/
+Remaining stack: 307, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-kph-kasper-lange/
+Remaining stack: 306, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/professors-emeriti/prof-dr-ms-marina-van-geenhuizen/
+Remaining stack: 306, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/dr-hg-haiko-van-der-voort/
+Remaining stack: 305, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/researchers/dr-sh-selinde-van-engelenburg/
+Remaining stack: 304, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-s-sabine-roeser/profdr-s-sabine-roeser/conferences/
+Remaining stack: 303, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/assistant-professors/dr-sth-servaas-storm/
+Remaining stack: 306, eggs: 14 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S']
+Processing https://www.tudelft.nl/tbm/actueel/laatste-nieuws/
+Remaining stack: 306, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/drs-ing-eo-eelco-de-groot/
+Remaining stack: 306, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/assistant-professors/dr-cwm-ro-naastepad/
+Remaining stack: 305, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/support-staff/
+Remaining stack: 304, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/associate-professors/dr-af-aad-correlje/projects/
+Remaining stack: 303, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/pwe/pwe-basics/bijdrage-aan-besluitvorming/
+Remaining stack: 304, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/smart-grids/
+Remaining stack: 304, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/stafafdelingen/itav/medewerkers/docent-spaans/
+Remaining stack: 304, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/y-yuxin-wang/
+Remaining stack: 303, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderzoek/stories-of-science/ontwerpen-voor-duisternis/
+Remaining stack: 302, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/actueel/in-de-media/archief/
+Remaining stack: 301, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/leon-hermans/
+Remaining stack: 300, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/pbm-patrick-fahim/
+Remaining stack: 299, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/risicoanalyse-van-extreme-ongewenste-gebeurtenissen/
+Remaining stack: 301, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/tk-thomas-niaounakis/
+Remaining stack: 300, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/studievereniging/
+Remaining stack: 299, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/management-team/
+Remaining stack: 298, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/drir-m-maarten-kroesen/
+Remaining stack: 299, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/responsible-innovation-lde/
+Remaining stack: 298, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-s-sabine-roeser/profdr-s-sabine-roeser/publications/
+Remaining stack: 297, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/
+Remaining stack: 296, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-eje-eric-molin/biography/
+Remaining stack: 295, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/drsir-ep-ilse-verdiesen/
+Remaining stack: 294, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/t-tobias-fiebig/
+Remaining stack: 293, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/research/research-methods/
+Remaining stack: 292, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderwijs/minoren/companies-and-innovation/
+Remaining stack: 291, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/labs/
+Remaining stack: 290, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/drir-pw-petra-heijnen/
+Remaining stack: 289, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/affiliated-full-professors/profdr-o-ciano-aydin/
+Remaining stack: 288, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/assistant-professors/dr-sth-servaas-storm/papers-in-international-journals/
+Remaining stack: 287, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/postinitiele-opleidingen/management-of-safety-health-environment/alumnivereniging/
+Remaining stack: 286, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors/profmrdr-ja-hans-de-bruijn/
+Remaining stack: 289, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/humtech-lab/humtech-lab/contact/
+Remaining stack: 289, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/risicoanalyse-van-extreme-ongewenste-gebeurtenissen/meer-weten/
+Remaining stack: 288, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/s-shilei-hu/publications/
+Remaining stack: 287, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/dr-g-gerdien-de-vries/
+Remaining stack: 289, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/
+Remaining stack: 343, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/stafafdelingen/itav/onderwijs/
+Remaining stack: 342, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/selma-causevic/
+Remaining stack: 341, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/ir-ldm-lizet-krabbenborg/
+Remaining stack: 340, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/oeo-oezge-okur/
+Remaining stack: 339, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/am-adriana-diaz-arias/
+Remaining stack: 338, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/drir-jh-jan-kwakkel/
+Remaining stack: 337, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-amg-anneke-zuiderwijk-van-eijk/supervised-students/
+Remaining stack: 336, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/onderzoek/projecten/capturing-the-societal-value-of-smart-energy-systems/contact/
+Remaining stack: 335, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/phd-candidates/pe-pieter-stek/
+Remaining stack: 334, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/profdrir-mpc-margot-weijnen/
+Remaining stack: 334, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/drir-bm-bauke-steenhuisen/
+Remaining stack: 333, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/support-staff/ps-priscilla-zwalve-hanselaar/
+Remaining stack: 332, eggs: 15 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/
+Remaining stack: 331, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/b-bahareh-zohoori/
+Remaining stack: 330, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-jhr-ron-van-duin/
+Remaining stack: 332, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/associate-professors/drir-sa-sebastiaan-meijer/
+Remaining stack: 331, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/guests/dr-phjj-paul-swuste/publications/
+Remaining stack: 330, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/phd-candidates/m-masoud-khakdaman/
+Remaining stack: 329, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/full-professors/profdr-gp-bert-van-wee/biography-bert-van-wee/
+Remaining stack: 328, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/humtech-lab/humtech-lab/team/
+Remaining stack: 328, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/
+Remaining stack: 327, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/postdocs/dr-e-emad-yaghmaei/
+Remaining stack: 327, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-bd-boriana-rukanova/
+Remaining stack: 326, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/actueel/tbm-op-social-media/bekijk-de-vlogs-van-gerdien-de-vries/
+Remaining stack: 326, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/exergie/
+Remaining stack: 327, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/professors/profdr-fm-frances-brazier/
+Remaining stack: 326, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/mhc-ads/people/
+Remaining stack: 333, eggs: 16 - ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S']
+Processing https://www.tudelft.nl/tbm/onderzoek/publicaties/
+
+
+
+#########################################
+# Results:
+
+H found at https://www.tudelft.nl/tbm/over-de-faculteit/werken-bij-de-faculteit/career-at-tpm/
+R found at https://www.tudelft.nl/tbm/onderwijs/postacademisch-onderwijs/
+N found at https://www.tudelft.nl/tbm/onderwijs/masteropleidingen/
+I found at https://www.tudelft.nl/tbm/onderwijs/bacheloropleiding/
+! found at https://www.tudelft.nl/tbm/onderzoek/
+A found at https://www.tudelft.nl/tbm/samenwerken/
+E found at https://www.tudelft.nl/tbm/over-de-faculteit/
+A found at https://www.tudelft.nl/tbm/onderwijs/
+T found at https://www.tudelft.nl/tbm/onderzoek/projecten/
+S found at https://www.tudelft.nl/tbm/over-de-faculteit/organogram-feiten-cijfers/
+D found at https://www.tudelft.nl/tbm/actueel/
+P found at https://www.tudelft.nl/tbm/onderwijs/minoren/
+G found at https://www.tudelft.nl/tbm/over-de-faculteit/decaan/
+S found at https://www.tudelft.nl/tbm/actueel/in-de-media/
+R found at https://www.tudelft.nl/tbm/actueel/laatste-nieuws/
+S found at https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/
+T found at https://www.tudelft.nl/tbm/onderzoek/publicaties/
+
+
+All letters: ['H', 'R', 'N', 'I', '!', 'A', 'E', 'A', 'T', 'S', 'D', 'P', 'G', 'S', 'R', 'S', 'T']
