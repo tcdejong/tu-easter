@@ -16,8 +16,6 @@ The challenge was introduced in the following email:
 
 > Dear faculty staff and students,
 >
-> I'm sure I'm not just speaking for myself when I say I'm really enjoying the arrival of spring. The warmth of the sun. The fresh scent of green grass and new leaves. Everything in bloom. We have a nice long Easter weekend ahead of us. A weekend where we can take a step back, rest and enjoy spring.
->
 > [...]
 >
 > **TPM easter egg challenge**  
